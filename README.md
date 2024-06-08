@@ -20,4 +20,4 @@
 - emp_length1~12 : Number of years in the job
 - initial_list_status : Initial listing status of the loan
 - revol_util : Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit
-- 
+- (fico_range_low+fico_range_high)/2 : Average assumption of FICO
